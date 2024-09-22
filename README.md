@@ -1,6 +1,6 @@
 # Documentation
 
-This repository coontains the code and pdf files for the data engineering test from DTU.
+This repository contains the code and pdf files deliveries for the data engineering test from Novo Nordisk Foundation Center for Biosustainability at DTU.
 
 The repository contains the following folders:
 
