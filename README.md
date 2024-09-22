@@ -2,7 +2,7 @@
 
 This repository contains the code and pdf files deliveries for the data engineering test from Novo Nordisk Foundation Center for Biosustainability at DTU.
 
-The repository contains the following folders:
+The repository contains the following folders and files:
 
 - part1 folder, containing results from the part1 exercice
 - part2 folder, which contains results from part2 exercise
