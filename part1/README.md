@@ -14,7 +14,7 @@ This is the description of each file and folder
 - images, contains image file for the report
 - log_events.pdf is a pdf file generated from log_events.py
 - upload_file_to_container.pdf is the pdf file generated fromupload_file_to_container.py
-- part1.pdf is the result of merging the files
+- Yapi-Donatien-Achou-Delivery-Part1.pdf is the delivery for part1 and is the result of merging the files
 
   - latex-files/part1.pdf
   - upload_file_to_container.pdf

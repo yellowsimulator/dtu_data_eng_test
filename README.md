@@ -9,9 +9,10 @@ The repository contains the following folders:
 - requirements.txt file for the required python packages
 - Data_Engineer_Test.pdf, is the test
 
-# 1- Clone the repository 
+# 1- Clone the repository
 
-git clone repository
+- git clone repository git@github.com:yellowsimulator/dtu_data_eng_test.git (ssh option)
+- git clone https://github.com/yellowsimulator/dtu_data_eng_test.git (https option)
 
 # 2-Install virtual environment and activate it with commands
 
